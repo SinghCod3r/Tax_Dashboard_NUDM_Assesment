@@ -21,7 +21,7 @@ A modern, production-ready React dashboard for the **UPYOG Property Tax platform
 |------------|---------|
 | React 18 | Frontend framework |
 | Recharts | Data visualization |
-| Google Gemini API | AI chat assistant |
+| Groq API | AI chat assistant |
 | CSS3 | Styling & animations |
 
 ## 📦 Setup Instructions
@@ -44,7 +44,7 @@ npm install
 Create a `.env` file in the project root:
 
 ```
-REACT_APP_GEMINI_API_KEY=your_gemini_api_key_here
+REACT_APP_GROQ_API_KEY=your_groq_api_key_here
 ```
 
 > Get a free API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
@@ -72,7 +72,12 @@ Each record includes property details, tax assessment, collection status, and re
 
 ## 👤 Author
 
-**Your Name**
+**Ayush Singh**
+
+Email id --
+
+**ayushsinghceee@gmail.com**
+
 
 ---
 
