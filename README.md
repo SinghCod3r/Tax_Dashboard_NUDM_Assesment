@@ -66,9 +66,9 @@ The dashboard uses `properties.json` containing 1,000 property records across 10
 
 Each record includes property details, tax assessment, collection status, and registration information.
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Overview](screenshots/dashboard.png)
 
 ## 👤 Author
 
